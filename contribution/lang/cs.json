@@ -149,7 +149,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "Vylepšit na ${upgradeToSlot} sloty",
+ 	 	 	 	"trans": "Vylepšit na ${upgradeToSlot} slotů",
  	 	 	 	"eng": "UPGRADE TO ${upgradeToSlot} SLOTS"
  	 	 	},
  	 	 	"upgradeSlotDesc": {
@@ -259,7 +259,7 @@
  	 	 	 	"eng": "mail"
  	 	 	},
  	 	 	"noti": {
- 	 	 	 	"trans": "upozornění",
+ 	 	 	 	"trans": "oznámení",
  	 	 	 	"eng": "noti."
  	 	 	},
  	 	 	"notAtBottom": {
@@ -381,7 +381,7 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Globální skip (${timeSkipMinutes} minut, náklady ${timeSkipCost} jednotek)",
+ 	 	 	 	 	"trans": "Globální přeskočení (${timeSkipMinutes} minut, náklady ${timeSkipCost} Jednotek)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -402,7 +402,7 @@
  	 	 	 	 	 	"timeSkipItemName",
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Použijte jeden z vašich ${timeSkipItemName}, abystře přeskočili ${itemSkipMinutes} minut",
+ 	 	 	 	 	"trans": "Použijte jeden z vašich ${timeSkipItemName}, abyste přeskočili ${itemSkipMinutes} minut",
  	 	 	 	 	"eng": "Use one of your ${timeSkipItemName} to skip ${itemSkipMinutes} minutes"
  	 	 	 	}
  	 	 	},
@@ -661,7 +661,7 @@
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "Skip k dispozici",
+ 	 	 	 	"trans": "Přeskočení k dispozici",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
@@ -679,7 +679,7 @@
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
- 	 	 	 	"trans": "umístění",
+ 	 	 	 	"trans": "poloha",
  	 	 	 	"eng": "location"
  	 	 	},
  	 	 	"onlineStatus": {
@@ -730,7 +730,7 @@
  	 	 	 	 	"eng": "Player Actions"
  	 	 	 	},
  	 	 	 	"sendPrivateMsg": {
- 	 	 	 	 	"trans": "Odeslat soukromou zprávu",
+ 	 	 	 	 	"trans": "Poslat soukromou zprávu",
  	 	 	 	 	"eng": "Send private message"
  	 	 	 	},
  	 	 	 	"sendGift": {
@@ -794,7 +794,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Zvýšení slotu na ${nextSlotSize}",
+ 	 	 	 	"trans": "Zvýšení slotů na ${nextSlotSize}",
  	 	 	 	"eng": "Increase slot to ${nextSlotSize}"
  	 	 	},
  	 	 	"increaseSlotDescription": {
@@ -1409,7 +1409,7 @@
  	 	"localCombat": {
  	 	 	"nearByEnemiesButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Blízcí nepřátele",
+ 	 	 	 	 	"trans": "Blízcí nepřátelé",
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
@@ -1748,7 +1748,7 @@
  	 	},
  	 	"characterNameError": {
  	 	 	"hasSpace": {
- 	 	 	 	"trans": "Název nemůže obsahovat mezery, můžete je ale nahradit \"_\"",
+ 	 	 	 	"trans": "Jméno nemůže obsahovat mezery, můžete je ale nahradit \"_\"",
  	 	 	 	"eng": "Name cannot contain spaces, you may replace the space with \"_\""
  	 	 	},
  	 	 	"tooShort": {
@@ -1894,7 +1894,7 @@
  	 	},
  	 	"escape": {
  	 	 	"name": {
- 	 	 	 	"trans": "Uniknout",
+ 	 	 	 	"trans": "Únik",
  	 	 	 	"eng": "Escape"
  	 	 	},
  	 	 	"description": {
@@ -1964,7 +1964,7 @@
  	 	},
  	 	"stunEvade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Vyhnutí se omráčení Evans",
+ 	 	 	 	"trans": "Vyhnutí se omráčení",
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
@@ -2170,7 +2170,7 @@
  	 	 	"vars": [
  	 	 	 	"globalQuestPoint"
  	 	 	],
- 	 	 	"trans": "${globalQuestPoint} pokrok narušení SL Dat pevnost",
+ 	 	 	"trans": "${globalQuestPoint} pokrok narušení pevnosti SL-Dat",
  	 	 	"eng": "${globalQuestPoint} SL Data Fortress breach progress"
  	 	}
  	},
@@ -2214,7 +2214,7 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nováček s benefity",
+ 	 	 	 	"trans": "Nováček s výhodami",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
@@ -2383,7 +2383,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2409,7 +2409,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2426,7 +2426,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2443,7 +2443,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2460,7 +2460,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2477,7 +2477,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2494,7 +2494,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	},
@@ -2511,7 +2511,7 @@
  	 	 	 	 	"unit",
  	 	 	 	 	"bonus"
  	 	 	 	],
- 	 	 	 	"trans": "Obdržet ${unit} Jednotek (${bonus} navíc)",
+ 	 	 	 	"trans": "Získat ${unit} Jednotek (${bonus} navíc)",
  	 	 	 	"eng": "Receive ${unit} Unit (${bonus} bonus)"
  	 	 	}
  	 	}
@@ -2538,7 +2538,7 @@
  	 	 	}
  	 	},
  	 	"receive": {
- 	 	 	"trans": "Obdržet",
+ 	 	 	"trans": "Získat",
  	 	 	"eng": "Receive"
  	 	},
  	 	"purchasing": {
@@ -2554,7 +2554,7 @@
  	 	"donation1": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "\"Člen\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Člen\"",
  	 	 	 	 	"eng": "\"Member\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -2570,7 +2570,7 @@
  	 	"donation2": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "\"Přispěvovatel\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Přispěvovatel\"",
  	 	 	 	 	"eng": "\"Donator\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -2590,7 +2590,7 @@
  	 	"donation3": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "\"Elite\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Elita\"",
  	 	 	 	 	"eng": "\"Elite\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -2630,7 +2630,7 @@
  	 	"donation4": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "\"Legendární\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Legenda\"",
  	 	 	 	 	"eng": "\"Legendary\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -2670,11 +2670,11 @@
  	 	"donation5": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "Kybernetické brambory",
+ 	 	 	 	 	"trans": "Kybernetická brambora",
  	 	 	 	 	"eng": "Cybernetic Potato"
  	 	 	 	},
  	 	 	 	"2": {
- 	 	 	 	 	"trans": "\"Cybernetický bramborový\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Cybernetická brambora\"",
  	 	 	 	 	"eng": "\"Cybernetic Potato\" donation title"
  	 	 	 	},
  	 	 	 	"3": {
@@ -2682,7 +2682,7 @@
  	 	 	 	 	"eng": "Unlock profile picture customization"
  	 	 	 	},
  	 	 	 	"4": {
- 	 	 	 	 	"trans": "Staňte se kybernetickým bramborem",
+ 	 	 	 	 	"trans": "Stát se kybernetickou bramborou",
  	 	 	 	 	"eng": "Become a Cybernetic Potato"
  	 	 	 	},
  	 	 	 	"5": {
@@ -2722,7 +2722,7 @@
  	 	"donation6": {
  	 	 	"benefits": {
  	 	 	 	"1": {
- 	 	 	 	 	"trans": "\"Prestige\" titul dárce",
+ 	 	 	 	 	"trans": "Titul dárce \"Šlechta\"",
  	 	 	 	 	"eng": "\"Prestige\" donation title"
  	 	 	 	},
  	 	 	 	"2": {
@@ -2817,7 +2817,7 @@
  	 	},
  	 	"ammo2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Antihmotový Výboj",
+ 	 	 	 	"trans": "Náboj Antihmoty",
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
@@ -3511,7 +3511,7 @@
  	 	 	 	 	"tierName",
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "${tierName} ${typeName} cache",
+ 	 	 	 	"trans": "${tierName} ${typeName} krabička",
  	 	 	 	"eng": "${tierName} ${typeName} cache"
  	 	 	},
  	 	 	"description": {
@@ -3524,14 +3524,14 @@
  	 	},
  	 	"flashGrenade": {
  	 	 	"name": {
- 	 	 	 	"trans": "Flash granát",
+ 	 	 	 	"trans": "Bleskový granát",
  	 	 	 	"eng": "Flash Grenade"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"escape"
  	 	 	 	],
- 	 	 	 	"trans": "Flash granát, který lze použít k slepým nepřátelům. Zvyšování vaší šance úniku o ${escape}%",
+ 	 	 	 	"trans": "Bleskový granát, který lze použít k oslepení nepřátel. Zvyšuje vaší šanci na únik o ${escape}%",
  	 	 	 	"eng": "A flash grenade that can be used to blind enemies. increasing your chance of escape by ${escape}%"
  	 	 	}
  	 	}
@@ -3545,7 +3545,7 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "Tisk Rank",
+ 	 	 	 	"trans": "Úroveň Tisku",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
@@ -3557,19 +3557,19 @@
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ammo Crafting",
+ 	 	 	 	"trans": "Výroba Munice",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "Skavenge Skill",
+ 	 	 	 	"trans": "Dovednost Sběru",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "důlní dovednost",
+ 	 	 	 	"trans": "Dovednost Těžení",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -3577,7 +3577,7 @@
  	"location": {
  	 	"mainHub": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-la centrum města",
+ 	 	 	 	"trans": "Shangri-la Centrum města",
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
@@ -3586,7 +3586,7 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Jděte na Hyper Train Central Station",
+ 	 	 	 	 	"trans": "Jít na Hlavní stanici Hyper-Vlaku",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -3596,7 +3596,7 @@
  	 	 	},
  	 	 	"toJob": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Jděte do obchodní oblasti Shangri-La",
+ 	 	 	 	 	"trans": "Jít do Obchodní Oblasti Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -3606,7 +3606,7 @@
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Jděte do Shangri-La Market Street",
+ 	 	 	 	 	"trans": "Jít na Obchodní Ulici Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -3616,14 +3616,14 @@
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Jít do sídlo gangu",
+ 	 	 	 	 	"trans": "Jít do sídla gangu",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"job": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shangri-la obchodní plocha",
+ 	 	 	 	"trans": "Shangri-la Obchodní Centrum",
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
@@ -3648,14 +3648,14 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Návrat do centra Shangri-la",
+ 	 	 	 	 	"trans": "Návrat do centra Shangri-ly",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hyper vlaková hlavice",
+ 	 	 	 	"trans": "Hlavní stanice Hyper-Vlaku",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -3687,7 +3687,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Návrat na ${mainHubName}",
+ 	 	 	 	 	"trans": "Vrátit se do ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -3703,17 +3703,17 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "návrat na ${segmentStationName}",
+ 	 	 	 	 	"trans": "návrat do ${segmentStationName}",
  	 	 	 	 	"eng": "return to ${segmentStationName}"
  	 	 	 	}
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Zpět na Hyper Train Station",
+ 	 	 	 	 	"trans": "Zpět na stanici Hyper-Vlaku",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Návrat na Hyper Train Station",
+ 	 	 	 	 	"trans": "Návrat do stanice Hyper-Vlaku",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -3741,14 +3741,14 @@
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Začněte s úrovní 1 až 10 oblastí",
+ 	 	 	 	"trans": "Začít v oblasti s úrovní 1 až 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"goTo": {
  	 	 	 	"vars": [
  	 	 	 	 	"segmentStationName"
  	 	 	 	],
- 	 	 	 	"trans": "Jděte na ${segmentStationName}",
+ 	 	 	 	"trans": "Jít do ${segmentStationName}",
  	 	 	 	"eng": "go to ${segmentStationName}"
  	 	 	},
  	 	 	"toZone": {
@@ -3763,7 +3763,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"zoneName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Jděte na ${zoneName}",
+ 	 	 	 	 	"trans": "Jít do ${zoneName}",
  	 	 	 	 	"eng": "Go to ${zoneName}"
  	 	 	 	}
  	 	 	}
@@ -3772,7 +3772,7 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "ARASAKA UNIT EXCHANGE",
+ 	 	 	 	"trans": "Arsakská směnárna Jednotek",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"canAccessError": {
@@ -3834,7 +3834,7 @@
  	 	},
  	 	"weaponSmith": {
  	 	 	"name": {
- 	 	 	 	"trans": "Zbraň Smith",
+ 	 	 	 	"trans": "Zbrojíř",
  	 	 	 	"eng": "Weapon Smith"
  	 	 	},
  	 	 	"defaultLines": {
@@ -3879,7 +3879,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"Hej, člověče... Pojď omrknout mé zboží."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -3888,7 +3888,7 @@
  	 	},
  	 	"bank": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bank of Arasaka",
+ 	 	 	 	"trans": "Arasakská banka",
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
@@ -3924,7 +3924,7 @@
  	 	},
  	 	"storageMerchant": {
  	 	 	"name": {
- 	 	 	 	"trans": "Leeův obchodování",
+ 	 	 	 	"trans": "Leeův obchod",
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
@@ -3978,7 +3978,7 @@
  	 	},
  	 	"increaseAmmo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Zlepšit munice",
+ 	 	 	 	"trans": "Zlepšit munici",
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
@@ -3998,7 +3998,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "iniciovat kryptoře",
+ 	 	 	 	"trans": "Začít mining kryptoměny",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
@@ -4008,7 +4008,7 @@
  	 	},
  	 	"clanResource": {
  	 	 	"name": {
- 	 	 	 	"trans": "Shromáždit zdroj gangu",
+ 	 	 	 	"trans": "Sbírat zdroje gangu",
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
@@ -4038,7 +4038,7 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Hrát Mega Pachinko hra",
+ 	 	 	 	"trans": "Hrát Mega Pachinko",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
@@ -4101,31 +4101,31 @@
  	 	"requirement": {
  	 	 	"damage": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Poškození dohody",
+ 	 	 	 	 	"trans": "Udělit poškození",
  	 	 	 	 	"eng": "Deal damage"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Došlo k poškození jakéhokoli nepřítele",
+ 	 	 	 	 	"trans": "Udělit poškození jakémukoliv nepříteli",
  	 	 	 	 	"eng": "Deal damage to any enemy"
  	 	 	 	}
  	 	 	},
  	 	 	"money": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Získat Bitcoins",
+ 	 	 	 	 	"trans": "Získat Bitcoiny",
  	 	 	 	 	"eng": "Acquire Bitcoins"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Získat bitcoins jakýmkoliv způsobem",
+ 	 	 	 	 	"trans": "Získat Bitcoiny jakýmkoliv způsobem",
  	 	 	 	 	"eng": "Acquire Bitcoins in any way"
  	 	 	 	}
  	 	 	},
  	 	 	"exp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Obdržet exp",
+ 	 	 	 	 	"trans": "Získat zkušenosti",
  	 	 	 	 	"eng": "Receive exp"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Obdržet exp z jakéhokoliv zdroje",
+ 	 	 	 	 	"trans": "Získat zkušenosti z jakéhokoliv zdroje",
  	 	 	 	 	"eng": "Receive exp from any source"
  	 	 	 	}
  	 	 	},
@@ -4135,63 +4135,63 @@
  	 	 	 	 	"eng": "Kill enemy"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Zabít všechny nepřítele",
+ 	 	 	 	 	"trans": "Zabít všechny nepřátele",
  	 	 	 	 	"eng": "Kill any enemy"
  	 	 	 	}
  	 	 	},
  	 	 	"molecularPrint": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Tiskové vybavení",
+ 	 	 	 	 	"trans": "Vytisknout vybavení",
  	 	 	 	 	"eng": "Print equipment"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Použijte molekulární tisk pro tisk libovolné mezipaměti položky",
+ 	 	 	 	 	"trans": "Použít molekulární tisk pro tisk libovolné mezipaměti položky",
  	 	 	 	 	"eng": "use molecular print to print any item cache"
  	 	 	 	}
  	 	 	},
  	 	 	"joinDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Připojte se k Dungeon",
+ 	 	 	 	 	"trans": "Připojit se k Dungeon",
  	 	 	 	 	"eng": "Join Dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Připojte se k dalšímu hráči Dungeon",
+ 	 	 	 	 	"trans": "Připojit se k dungeonu jiného hráče",
  	 	 	 	 	"eng": "Join other player's dungeon"
  	 	 	 	}
  	 	 	},
  	 	 	"clearChallengeDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Jasná výzva Dungeon",
+ 	 	 	 	 	"trans": "Vyčistit náročný Dungeon",
  	 	 	 	 	"eng": "Clear challenge dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Vymazat výzvu Dungeon (může být co-op)",
+ 	 	 	 	 	"trans": "Vyčistit náročný Dungeon (může být co-op)",
  	 	 	 	 	"eng": "Clear a challenge dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeon": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Jasný dungeon",
+ 	 	 	 	 	"trans": "Vyčistit dungeon",
  	 	 	 	 	"eng": "Clear dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Vymazat libovolný dungeon (může být co-op)",
+ 	 	 	 	 	"trans": "Vyčistit libovolný dungeon (může být co-op)",
  	 	 	 	 	"eng": "Clear any dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Clear Dungeon s přáteli",
+ 	 	 	 	 	"trans": "Vyčistit dungeon s přáteli",
  	 	 	 	 	"eng": "Clear dungeon with friends"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Vyčistěte dungeon s 1 nebo více hráči",
+ 	 	 	 	 	"trans": "Vyčistit dungeon s 1 nebo více hráči",
  	 	 	 	 	"eng": "Clear any dungeon with 1 or more players"
  	 	 	 	}
  	 	 	},
  	 	 	"globalChat": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Použijte globální chat",
+ 	 	 	 	 	"trans": "Použít globální chat",
  	 	 	 	 	"eng": "Use global chat"
  	 	 	 	},
  	 	 	 	"description": {
@@ -4201,11 +4201,11 @@
  	 	 	},
  	 	 	"openCrate": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Otevřená bedna",
+ 	 	 	 	 	"trans": "Otevřít bednu",
  	 	 	 	 	"eng": "Open Crate"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Otevřená přeprava v žaláři",
+ 	 	 	 	 	"trans": "Otevřít bednu v dungeonu",
  	 	 	 	 	"eng": "Open crate in dungeon"
  	 	 	 	}
  	 	 	},
@@ -4215,7 +4215,7 @@
  	 	 	 	 	"eng": "Be a merchant"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Umístěte položku na trh",
+ 	 	 	 	 	"trans": "Umístit položku na trh",
  	 	 	 	 	"eng": "Place an item on the market"
  	 	 	 	}
  	 	 	}
@@ -4224,7 +4224,7 @@
  	"recipe": {
  	 	"unlockLootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Odemknout kontejner",
+ 	 	 	 	"trans": "Odemknout schránku",
  	 	 	 	"eng": "Unlock Container"
  	 	 	}
  	 	},
@@ -4234,19 +4234,19 @@
  	 	},
  	 	"unlockLootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Odemkněte vzácné kontejner",
+ 	 	 	 	"trans": "Odemkněte Vzácnou schránku",
  	 	 	 	"eng": "Unlock Rare Container"
  	 	 	}
  	 	},
  	 	"unlockLootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Odemknout legendární kontejner",
+ 	 	 	 	"trans": "Odemknout Legendární schránku",
  	 	 	 	"eng": "Unlock Legendary Container"
  	 	 	}
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "Odemknout tajemný kontejner",
+ 	 	 	 	"trans": "Odemknout Tajemnou schránku",
  	 	 	 	"eng": "Unlock Mysterious Container"
  	 	 	}
  	 	},
@@ -4268,13 +4268,13 @@
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorerův batoh",
+ 	 	 	 	"trans": "Průzkumníkův batoh",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Případ zaměstnaneckého úřadu",
+ 	 	 	 	"trans": "Taška zaměstnance úřadu",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	}
  	 	},
@@ -4288,14 +4288,14 @@
  	 	 	"vars": [
  	 	 	 	"minLevel"
  	 	 	],
- 	 	 	"trans": "Energetická buňka (LV ${minLevel})",
+ 	 	 	"trans": "Energetická buňka (${minLevel}. úrovně)",
  	 	 	"eng": "Energy Cell (lv${minLevel})"
  	 	},
  	 	"ammo2": {
  	 	 	"vars": [
  	 	 	 	"minLevel"
  	 	 	],
- 	 	 	"trans": "Chvála proti hmoty (LV ${minLevel})",
+ 	 	 	"trans": "Náboj Antihmoty (${minLevel}. úrovně)",
  	 	 	"eng": "Anti Matter Charge (lv${minLevel})"
  	 	}
  	},
@@ -4492,13 +4492,13 @@
  	 	"ui": {
  	 	 	"autoScrap": {
  	 	 	 	"noItem": {
- 	 	 	 	 	"trans": "Žádná položka na auto šrot",
+ 	 	 	 	 	"trans": "Nezbývá žádná položka na automatické sešrotování",
  	 	 	 	 	"eng": "No item to auto scrap"
  	 	 	 	}
  	 	 	},
  	 	 	"useItem": {
  	 	 	 	"localFightCantUseItem": {
- 	 	 	 	 	"trans": "Nelze použít položku během boje streetů, položky jsou k dispozici pouze během dungeonů",
+ 	 	 	 	 	"trans": "V průběhu bojů na ulicích nelze použít tuto položku. Jsou k dispozici pouze během dungeonů",
  	 	 	 	 	"eng": "You cannot use item during street fights, items are only available during dungeons"
  	 	 	 	}
  	 	 	}
@@ -4507,25 +4507,25 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "odpadky",
+ 	 	 	 	"trans": "Bezcenné",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "společný",
+ 	 	 	 	"trans": "obyčejné",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "vysoká kvalita",
+ 	 	 	 	"trans": "Vysoce kvalitní",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "vzácný",
+ 	 	 	 	"trans": "vzácné",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
@@ -4552,12 +4552,12 @@
  	 	 	 	"vars": [
  	 	 	 	 	"total"
  	 	 	 	],
- 	 	 	 	"trans": "To bude stát ${total} bitcoin součet",
+ 	 	 	 	"trans": "celkem to bude stát ${total} Bitcoinů",
  	 	 	 	"eng": "it will cost ${total} Bitcoin total"
  	 	 	}
  	 	},
  	 	"notEnoughMoney": {
- 	 	 	"trans": "Nedostatečný bitcoin",
+ 	 	 	"trans": "Nedostatek Bitcoinů",
  	 	 	"eng": "Insufficient bitcoin"
  	 	},
  	 	"priceConfirm": {
@@ -4566,14 +4566,14 @@
  	 	 	 	"priceStr",
  	 	 	 	"itemName"
  	 	 	],
- 	 	 	"trans": "Prodáváte ${amountStr} ${itemName} (y) za cenu ${priceStr} na položku",
+ 	 	 	"trans": "Prodáváte ${amountStr} ${itemName} za cenu ${priceStr} za položku",
  	 	 	"eng": "You are selling ${amountStr} ${itemName}(s), at the price of ${priceStr} Per Item"
  	 	},
  	 	"totalConfirm": {
  	 	 	"vars": [
  	 	 	 	"total"
  	 	 	],
- 	 	 	"trans": "Pokud se prodávají všechny položky, získáte ${total} bitcoins",
+ 	 	 	"trans": "Pokud se prodají všechny položky, získáte ${total} Bitcoinů",
  	 	 	"eng": "If all items are sold, you will earn ${total} BitCoins"
  	 	},
  	 	"sellAmountModalTitle": {
@@ -4586,7 +4586,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "${segmentDisplayName} tajný klíč",
+ 	 	 	"trans": "${segmentDisplayName} Tajný klíč",
  	 	 	"eng": "${segmentDisplayName} Secret Key"
  	 	},
  	 	"bruteForce": {
@@ -4596,7 +4596,7 @@
  	 	 	 	 	"segmentMinLevel",
  	 	 	 	 	"segmentMaxLevel"
  	 	 	 	],
- 	 	 	 	"trans": "${segmentDisplayName} tajný klíč (lv ${segmentMinLevel} - ${segmentMaxLevel})",
+ 	 	 	 	"trans": "${segmentDisplayName} Tajný klíč (úroveň ${segmentMinLevel} - ${segmentMaxLevel})",
  	 	 	 	"eng": "${segmentDisplayName} Secret Key (lv ${segmentMinLevel} - ${segmentMaxLevel})"
  	 	 	}
  	 	},
@@ -4611,20 +4611,20 @@
  	 	 	 	"likerName",
  	 	 	 	"amount"
  	 	 	],
- 	 	 	"trans": "${likerName} vám poslal ${amount} respektuje pro váš přeskočit",
+ 	 	 	"trans": "${likerName} vám poslal ${amount} respektu za vaše přeskočení",
  	 	 	"eng": "${likerName} has send you ${amount} respects for your skip"
  	 	}
  	},
  	"shop": {
  	 	"noEnoughSpace": {
- 	 	 	"trans": "Ve vašem inventáři nemáte žádný prostor pro nákup této položky",
+ 	 	 	"trans": "Ve vašem inventáři nemáte žádné volné místo pro uschování této položky po jejím nákupu",
  	 	 	"eng": "You have no space in your inventory to purchase this item"
  	 	},
  	 	"noEnoughMoney": {
  	 	 	"vars": [
  	 	 	 	"CURRENCY"
  	 	 	],
- 	 	 	"trans": "Nemáte dost ${CURRENCY} koupit tuto položku",
+ 	 	 	"trans": "Nemáte dost ${CURRENCY} na nákup této položky",
  	 	 	"eng": "You do not have enough ${CURRENCY} to purchase this item"
  	 	},
  	 	"slider": {
@@ -4653,7 +4653,7 @@
  	"modal": {
  	 	"chatMessage": {
  	 	 	"openPlayerProfile": {
- 	 	 	 	"trans": "Prohlédnout profil",
+ 	 	 	 	"trans": "Zobrazit profil",
  	 	 	 	"eng": "View Profile"
  	 	 	},
  	 	 	"openPlayerGang": {
@@ -4669,17 +4669,17 @@
  	 	 	 	"eng": "Send Private Message"
  	 	 	},
  	 	 	"reply": {
- 	 	 	 	"trans": "Odpověď",
+ 	 	 	 	"trans": "Odpovědět",
  	 	 	 	"eng": "Reply"
  	 	 	}
  	 	},
  	 	"chatRuleModal": {
  	 	 	"title": {
- 	 	 	 	"trans": "Před zahájením chatování souhlasíte s níže uvedenými pravidly",
+ 	 	 	 	"trans": "Před zahájením chatování souhlaste s níže uvedenými pravidly",
  	 	 	 	"eng": "Please agree to the rules below before start chatting"
  	 	 	},
  	 	 	"rule1": {
- 	 	 	 	"trans": "Žádné spamování nebo bezvýznamné zprávy.",
+ 	 	 	 	"trans": "Žádné spamování ani bezvýznamné zprávy.",
  	 	 	 	"eng": "No spamming or meaningless message."
  	 	 	},
  	 	 	"rule2": {
@@ -4691,16 +4691,16 @@
  	 	 	 	"eng": "No inappropriate language."
  	 	 	},
  	 	 	"footer": {
- 	 	 	 	"trans": "Budete ztlumeni, pokud porušíte některou z pravidel",
+ 	 	 	 	"trans": "Budete ztlumeni, pokud porušíte některé z pravidel",
  	 	 	 	"eng": "You will be MUTED if you breach any of the rules"
  	 	 	},
  	 	 	"footer2": {
- 	 	 	 	"trans": "Úplný seznam pravidel naleznete v profilu> Výukové programy> Pravidla",
+ 	 	 	 	"trans": "Úplný seznam pravidel naleznete v Profilu > Tutoriály > Pravidla",
  	 	 	 	"eng": "Full list of rules can be found in Profile > Tutorials > Rules"
  	 	 	},
  	 	 	"agreeToggle": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Chápu a já nikdy nebudu spam nebo porušit některý z pravidel chatu",
+ 	 	 	 	 	"trans": "Chápu a jnikdy nebudu spamovat ani neporuším žádné jiné pravidlo chatu",
  	 	 	 	 	"eng": "I understand and I will never spam or break any of the chat rules"
  	 	 	 	}
  	 	 	},
@@ -4710,7 +4710,7 @@
  	 	 	},
  	 	 	"confirmButton": {
  	 	 	 	"agreed": {
- 	 	 	 	 	"trans": "Nebudu spam",
+ 	 	 	 	 	"trans": "Nebudu spamovat",
  	 	 	 	 	"eng": "I won't spam"
  	 	 	 	},
  	 	 	 	"notAgree": {
@@ -4721,15 +4721,15 @@
  	 	},
  	 	"contributionModal": {
  	 	 	"title": {
- 	 	 	 	"trans": "Hráč přispěl obsah",
+ 	 	 	 	"trans": "Hráči přispívaný obsah",
  	 	 	 	"eng": "Player contributed content"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Můžete přispět k obsahu takto a mnoho dalšího editace konfiguračních souborů v našem stránce GitHub.",
+ 	 	 	 	"trans": "Také můžete přispět k obsahu, jako je tento a mnoha dalším tím, že upravíte konfigurační soubory na GitHub stránce.",
  	 	 	 	"eng": "You can contribute to content like this and many more too by editing the config files in our GitHub page."
  	 	 	},
  	 	 	"confirm": {
- 	 	 	 	"trans": "Jít do GitHub",
+ 	 	 	 	"trans": "Jít na GitHub",
  	 	 	 	"eng": "Go to GitHub"
  	 	 	},
  	 	 	"cancel": {
@@ -4739,7 +4739,7 @@
  	 	},
  	 	"equipmentQuickMenu": {
  	 	 	"unequip": {
- 	 	 	 	"trans": "sjednocený",
+ 	 	 	 	"trans": "odbavit",
  	 	 	 	"eng": "unequip"
  	 	 	},
  	 	 	"viewDetails": {
@@ -4757,21 +4757,21 @@
  	 	 	 	"eng": "Unofficial translation"
  	 	 	},
  	 	 	"description1": {
- 	 	 	 	"trans": "Vzhledem k tomu, že tato hra je vyrobena pouze jednou osobou, je velmi obtížné Přeložit všechny jazyky správně, ale pracuji na přidávání dalších překladů :)",
+ 	 	 	 	"trans": "Vzhledem k tomu, že tato hra je vytvářena pouze jednou osobou, je velmi obtížné přeložit všechny jazyky správně, ale přesto pracuji na přidávání dalších překladů :)",
  	 	 	 	"eng": "As this game is made by only one person, it's very difficult translate all languages correctly, but I am working on adding more translations :)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Jazyk můžete kdykoliv změnit na stránce Nastavení",
+ 	 	 	 	"trans": "Jazyk můžete kdykoliv změnit v záložce Nastavení",
  	 	 	 	"eng": "You can change language anytime at the settings page"
  	 	 	},
  	 	 	"dontShowAgain": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Nezobrazujte to znovu",
+ 	 	 	 	 	"trans": "Znovu nezobrazovat",
  	 	 	 	 	"eng": "Don't show this again"
  	 	 	 	}
  	 	 	},
  	 	 	"goToSettings": {
- 	 	 	 	"trans": "Změna angličtiny",
+ 	 	 	 	"trans": "Změnit do Angličtiny",
  	 	 	 	"eng": "Change to English"
  	 	 	},
  	 	 	"confirmButton": {
@@ -4787,14 +4787,14 @@
  	 	},
  	 	"playerSearch": {
  	 	 	"searchPlayerHint": {
- 	 	 	 	"trans": "Zadejte název hráče na vyhledávání",
+ 	 	 	 	"trans": "Zadejte jméno hráče na vyhledání",
  	 	 	 	"eng": "Enter player name to search"
  	 	 	},
  	 	 	"noPlayerFound": {
  	 	 	 	"vars": [
  	 	 	 	 	"search"
  	 	 	 	],
- 	 	 	 	"trans": "Žádný hráč s názvem \"${search}\" nalezen",
+ 	 	 	 	"trans": "Nenalezen žádný hráč se jménem \"${search}\"",
  	 	 	 	"eng": "No player with named \"${search}\" found"
  	 	 	}
  	 	},
@@ -4804,20 +4804,20 @@
  	 	 	 	"eng": "Broadcast Received"
  	 	 	},
  	 	 	"dontShowAgain": {
- 	 	 	 	"trans": "Don \\ 't zobrazit toto vysílání znovu",
+ 	 	 	 	"trans": "Znovu nezobrazovat toto vysílání",
  	 	 	 	"eng": "Don\\'t show this broadcast again"
  	 	 	}
  	 	},
  	 	"resultScreen": {
  	 	 	"title": {
- 	 	 	 	"trans": "O úroveň výš",
+ 	 	 	 	"trans": "Vítězství",
  	 	 	 	"eng": "Victory"
  	 	 	},
  	 	 	"subTitle": {
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Gratulujeme, vyrovnal jste své ${levelName}!",
+ 	 	 	 	"trans": "Gratulujeme, vylepšili jste ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -4831,26 +4831,26 @@
  	 	},
  	 	"review": {
  	 	 	"title1": {
- 	 	 	 	"trans": "Jsem Dexter, vývojář této hry a doufám, že zjistím vaše zkušenosti zatím.",
+ 	 	 	 	"trans": "Jsem Dexter, vývojář této hry, a doufám, že zjistím vaší dosavadní zkušenost.",
  	 	 	 	"eng": "I'm Dexter, the developer of this game, and I hope to know your experience so far."
  	 	 	},
  	 	 	"title2": {
- 	 	 	 	"trans": "Kolik hvězd by dal?",
+ 	 	 	 	"trans": "Kolik hvězd byste dali?",
  	 	 	 	"eng": "How many stars would you give?"
  	 	 	},
  	 	 	"badReview": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Je mi to moc líto, dejte mi prosím vědět, kde se můžu zlepšit",
+ 	 	 	 	 	"trans": "Je mi to moc líto, dejte mi prosím vědět, jak se mohu zlepšit",
  	 	 	 	 	"eng": "I am so sorry, please let me know where I can improve"
  	 	 	 	}
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "Wow, díky moc! Jsem poctěn, prosím, udělej to oficiální tím, že je opustíte na stránce obchodu :)",
+ 	 	 	 	 	"trans": "Páni, díky moc! Jsem poctěn, prosím, zveřejněte to oficiálně na stránce obchodu :)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "Vaše dobrá recenze mi pomůže hodně a přinést více hráčů do naší komunity!",
+ 	 	 	 	 	"trans": "Vaše recenze mi velice pomůže a také přivede více hráčů do naší komunity!",
  	 	 	 	 	"eng": "Your good review is going to help me much and bring more players into our community!"
  	 	 	 	}
  	 	 	},
@@ -4910,7 +4910,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"amount"
  	 	 	 	],
- 	 	 	 	"trans": "Toto daruje ${amount} Jednotky z vašeho účtu",
+ 	 	 	 	"trans": "Toto daruje ${amount} Jednotek z vašeho účtu",
  	 	 	 	"eng": "This will donate ${amount} Unit from your account"
  	 	 	},
  	 	 	"notEnough": {
@@ -4940,14 +4940,14 @@
  	 	 	"vars": [
  	 	 	 	"tierName"
  	 	 	],
- 	 	 	"trans": "Příklad rámečku chatu ${tierName} stupeň",
+ 	 	 	"trans": "Příklad rámečku chatu stupně ${tierName}",
  	 	 	"eng": "example chat frame of ${tierName} Tier"
  	 	}
  	},
  	"donationPage": {
  	 	"message": {
  	 	 	"content1": {
- 	 	 	 	"trans": "Ahoj, milí hráči!",
+ 	 	 	 	"trans": "Zdravím, milí hráči!",
  	 	 	 	"eng": "Hello, dear players!"
  	 	 	},
  	 	 	"content2": {
@@ -4955,11 +4955,11 @@
  	 	 	 	"eng": "I am Dexter, the developer of CyberCode Online."
  	 	 	},
  	 	 	"content3": {
- 	 	 	 	"trans": "Pokud máte nějaké peníze navíc, bylo by velice pěkné, pokud byste se je rozhodli darovat, a tím pomoci s pokračující podporou a rozvojem hry.",
+ 	 	 	 	"trans": "Pokud máte nějaké peníze navíc, bylo by velice pěkné, pokud byste se je rozhodli darovat, a tím pomoci s pokračující podporou a vývojem hry.",
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
- 	 	 	 	"trans": "Prosím, darujte pouze v případě, že opravdu chcete, všechny výhody jsou navrženy tak, aby byly férové ke všem hráčům, a nedají nikomu žádnou příliš velkou výhodu.",
+ 	 	 	 	"trans": "Prosím, darujte pouze v případě, že opravdu chcete, všechny výhody jsou navrženy tak, aby byly férové ke všem hráčům, a nedají nikomu příliš velkou výhodu.",
  	 	 	 	"eng": "Please only donate if you are comfortable, all benefits are designed to be fair for all players and will not give an edge in gameplay."
  	 	 	}
  	 	},
@@ -4972,7 +4972,7 @@
  	 	 	"eng": "benefits"
  	 	},
  	 	"TiersTitle": {
- 	 	 	"trans": "Úroveň dárcovství Tiers",
+ 	 	 	"trans": "Úroveň dárcovství",
  	 	 	"eng": "Donation Tiers"
  	 	},
  	 	"unitPrice": {
@@ -4983,7 +4983,7 @@
  	 	 	"eng": "${price} Unit"
  	 	},
  	 	"permanentDescription": {
- 	 	 	"trans": "Tento titul nikdy nevyprší.\\n Váš účet jej bude vlastnit navždy.",
+ 	 	 	"trans": "Tento titul nikdy nezmizí.\\n Váš účet jej bude vlastnit navždy.",
  	 	 	"eng": "This title will never expire.\\nIt stays with your account forever."
  	 	}
  	},
@@ -5186,7 +5186,7 @@
  	 	 	"eng": "Elite"
  	 	},
  	 	"donation4": {
- 	 	 	"trans": "Legendární",
+ 	 	 	"trans": "Legenda",
  	 	 	"eng": "Legendary"
  	 	},
  	 	"donation5": {
@@ -5194,7 +5194,7 @@
  	 	 	"eng": "Cybernetic Potato"
  	 	},
  	 	"donation6": {
- 	 	 	"trans": "Prestiž",
+ 	 	 	"trans": "Šlechta",
  	 	 	"eng": "Prestige"
  	 	},
  	 	"moderator": {
